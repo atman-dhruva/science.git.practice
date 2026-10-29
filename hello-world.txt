@@ -1,0 +1,8 @@
+Hello world.
+
+This file is the starting point for Session 1.
+
+In Module 1.3 you will add a line below with your name, the date, and one
+sentence about what you want to get out of this training.
+
+---

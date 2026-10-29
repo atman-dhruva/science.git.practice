@@ -1,0 +1,30 @@
+# Windows / Office temp files
+~$*
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# Editor settings
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Data and outputs - keep these out of Git
+*.csv
+*.xlsx
+*.nc
+*.tif
+*.shp
+data/
+outputs/
