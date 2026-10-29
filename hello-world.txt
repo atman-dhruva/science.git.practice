@@ -7,4 +7,6 @@ sentence about what you want to get out of this training.
 
 Atman, 29 October 2026, I would like to become familiar with Git and GitHub and how to use it properly.
 
+Practice for module 1.5
+
 ---
